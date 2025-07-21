@@ -3,7 +3,7 @@
 
 BakeFresh.in is a modern and visually rich cake shop website, designed to showcase a premium online bakery experience. This project is inspired by platforms like Zomato but tailored specifically for a bakery and dessert brand. Built using HTML and CSS, it offers an elegant and responsive UI that allows users to explore delicious cakes, gift hampers, and custom-made bakery items with ease.
 
-Project Highlights
+Project Highlights  <br>
 Clean and modern homepage layout with high-quality visuals
 
 Detailed product sections like Cakes, Special Cakes, Gift Hampers, and more
